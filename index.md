@@ -13,9 +13,9 @@ We selected two seed speaker embeddings (one with a feminine and one with a masc
         <tr>
             <td>Seed Voice</td><td><audio controls="" ><source src="resources/femininity_masculinity/m_seed.wav" type="audio/wav"></audio></td></tr><tr>
             <td>Towards Feminine</td><td><audio controls="" ><source src="resources/femininity_masculinity/m_more_fem.wav" type="audio/wav"></audio></td></tr><tr>
-            <td><More Towards Feminine/td><td><audio controls="" ><source src="resources/femininity_masculinity/m_most_fem.wav" type="audio/wav"></audio></td></tr><tr>
+            <td>More Towards Feminine</td><td><audio controls="" ><source src="resources/femininity_masculinity/m_most_fem.wav" type="audio/wav"></audio></td></tr><tr>
             <td>Towards Masculine</td><td><audio controls="" ><source src="resources/femininity_masculinity/m_more_masc.wav" type="audio/wav"></audio></td></tr><tr>
-            <td>More Towards Masculine</td><td><audio controls="" ><source src="resources/femininity_masculinity/m_most_masc.wav" type="audio/wav"></audio></td></tr><tr>
+            <td>More Towards Masculine</td><td><audio controls="" ><source src="resources/femininity_masculinity/m_most_masc.wav" type="audio/wav"></audio></td>
         </tr>
     </table>
 
@@ -25,9 +25,9 @@ We selected two seed speaker embeddings (one with a feminine and one with a masc
         <tr>
             <td>Seed Voice</td><td><audio controls="" ><source src="resources/femininity_masculinity/f_seed.wav" type="audio/wav"></audio></td></tr><tr>
             <td>Towards Feminine</td><td><audio controls="" ><source src="resources/femininity_masculinity/f_more_fem.wav" type="audio/wav"></audio></td></tr><tr>
-            <td><More Towards Feminine/td><td><audio controls="" ><source src="resources/femininity_masculinity/f_most_fem.wav" type="audio/wav"></audio></td></tr><tr>
+            <td>More Towards Feminine</td><td><audio controls="" ><source src="resources/femininity_masculinity/f_most_fem.wav" type="audio/wav"></audio></td></tr><tr>
             <td>Towards Masculine</td><td><audio controls="" ><source src="resources/femininity_masculinity/f_more_masc.wav" type="audio/wav"></audio></td></tr><tr>
-            <td>More Towards Masculine</td><td><audio controls="" ><source src="resources/femininity_masculinity/f_most_masc.wav" type="audio/wav"></audio></td></tr><tr>
+            <td>More Towards Masculine</td><td><audio controls="" ><source src="resources/femininity_masculinity/f_most_masc.wav" type="audio/wav"></audio></td>
         </tr>
     </table>
 
@@ -39,9 +39,9 @@ We selected two seed speaker embeddings (one with a feminine and one with a masc
         <tr>
             <td>Seed Voice</td><td><audio controls="" ><source src="resources/calmness_arousal/m_seed.wav" type="audio/wav"></audio></td></tr><tr>
             <td>Towards Calmness</td><td><audio controls="" ><source src="resources/calmness_arousal/m_more_calmness.wav" type="audio/wav"></audio></td></tr><tr>
-            <td><More Towards Calmness/td><td><audio controls="" ><source src="resources/calmness_arousal/m_most_calmness.wav" type="audio/wav"></audio></td></tr><tr>
+            <td>More Towards Calmness</td><td><audio controls="" ><source src="resources/calmness_arousal/m_most_calmness.wav" type="audio/wav"></audio></td></tr><tr>
             <td>Towards Arousal</td><td><audio controls="" ><source src="resources/calmness_arousal/m_more_arousal.wav" type="audio/wav"></audio></td></tr><tr>
-            <td>More Towards Arousal</td><td><audio controls="" ><source src="resources/calmness_arousal/m_most_arousal.wav" type="audio/wav"></audio></td></tr><tr>
+            <td>More Towards Arousal</td><td><audio controls="" ><source src="resources/calmness_arousal/m_most_arousal.wav" type="audio/wav"></audio></td>
         </tr>
     </table>
 
@@ -51,9 +51,9 @@ We selected two seed speaker embeddings (one with a feminine and one with a masc
         <tr>
             <td>Seed Voice</td><td><audio controls="" ><source src="resources/calmness_arousal/m_seed.wav" type="audio/wav"></audio></td></tr><tr>
             <td>Towards Calmness</td><td><audio controls="" ><source src="resources/calmness_arousal/m_more_calmness.wav" type="audio/wav"></audio></td></tr><tr>
-            <td><More Towards Calmness/td><td><audio controls="" ><source src="resources/calmness_arousal/m_most_calmness.wav" type="audio/wav"></audio></td></tr><tr>
+            <td>More Towards Calmness</td><td><audio controls="" ><source src="resources/calmness_arousal/m_most_calmness.wav" type="audio/wav"></audio></td></tr><tr>
             <td>Towards Arousal</td><td><audio controls="" ><source src="resources/calmness_arousal/m_more_arousal.wav" type="audio/wav"></audio></td></tr><tr>
-            <td>More Towards Arousal</td><td><audio controls="" ><source src="resources/calmness_arousal/m_most_arousal.wav" type="audio/wav"></audio></td></tr><tr>
+            <td>More Towards Arousal</td><td><audio controls="" ><source src="resources/calmness_arousal/m_most_arousal.wav" type="audio/wav"></audio></td>
         </tr>
     </table>
 
